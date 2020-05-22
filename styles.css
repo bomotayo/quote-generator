@@ -1,0 +1,30 @@
+body{
+  background-color: aqua;
+}
+
+#btn{
+  position: absolute;
+  left: 34.5%;
+  top: 80%;
+  width: 30%;
+  padding: 20px;
+  font-size: 30px;
+  background-color: gold;
+}
+
+.container{
+  position: absolute;
+  left: 30%;
+}
+
+#quoteBox{
+  border-color: gold;
+  border-style: solid;
+  text-align: center;
+  padding: 20%;
+  background-color: white;
+}
+
+#quote{
+  font-size: 20px;
+}
